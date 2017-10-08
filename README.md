@@ -10,4 +10,4 @@ Includes Philips Hue Virtual Devices for Fibaro Home Center 2:
 + Philips Hue White Dimmable Only 
 
 Code itself is well documented, read the comments.
-A guide that shows how to import and use the VDs in Fibaro HC2 can be found here.
+A guide that shows how to import and use the VDs in Fibaro HC2 can be found here: https://snillevilla.se/styr-philips-hue-lampor-med-fibaro-home-center-2/.
